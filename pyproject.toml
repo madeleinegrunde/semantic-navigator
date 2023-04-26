@@ -35,6 +35,8 @@ dependencies = [
   "cdp-data>=0.0.10",
   "flask~=2.2.3",
   "sentence-transformers~=2.2.2",
+  "pyarrow>=11.0.0",
+  "fastparquet>=2023.2.0",
 ]
 
 [project.urls]
